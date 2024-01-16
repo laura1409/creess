@@ -1,0 +1,11 @@
+# gitignore
+
+node_modules
+
+# Only apps should have lockfiles
+yarn.lock
+package-lock.json
+src/.DS_Store
+src/scss/.DS_Store
+templates/.DS_Store
+.DS_Store
